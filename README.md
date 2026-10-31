@@ -74,12 +74,10 @@ const joao = {
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=joaoandradejava&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF8A00&icon_color=7C3AED&text_color=c9d1d9"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoandradejava&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF8A00&text_color=c9d1d9"/>
+<img height="165em" src="https://github-readme-stats-rickstaa.vercel.app/api?username=joaoandradejava&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF8A00&icon_color=7C3AED&text_color=c9d1d9"/>
+<img height="165em" src="https://github-readme-stats-rickstaa.vercel.app/api/top-langs/?username=joaoandradejava&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF8A00&text_color=c9d1d9"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=joaoandradejava&theme=radical&hide_border=true&background=0D1117&ring=FF8A00&fire=7C3AED&currStreakLabel=FF8A00"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=joaoandradejava&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1"/>
 
 </div>
 
