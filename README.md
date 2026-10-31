@@ -1,30 +1,109 @@
-## Oii!! eu sou João Andrade
+<div align="center">
 
-<div>
-  <a href="https://github.com/joaoandradejava">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaoandradejava&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoandradejava&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-    
- <div style="display: inline_block"><br>
-  <img align="center" alt="JoaoAndrade-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
-  <img align="center" alt="JoaoAndrade-Spring" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg">
-  <img align="center" alt="JoaoAndrade-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="JoaoAndrade-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="JoaoAndrade-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="JoaoAndrade-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="JoaoAndrade-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
-  <img align="center" alt="JoaoAndrade-Dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
-  <img align="center" alt="JoaoAndrade-Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF8A00,100:7C3AED&height=220&section=header&text=Jo%C3%A3o%20Andrade&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%E2%80%A2%20Java%20%2B%20Spring%20%E2%80%A2%20React%20%2F%20Angular%20%2F%20Next.js&descAlignY=55&descSize=20"/>
+
+<a href="https://portfolio-blush-beta-g74bfm2rz9.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/🌐_PORTFÓLIO-Visitar-FF8A00?style=for-the-badge&labelColor=0D1117"/></a>
+<a href="https://www.linkedin.com/in/jo%C3%A3o-andrade-681166208/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:andradepinheironeto24@gmail.com"><img src="https://img.shields.io/badge/Email-Falar_comigo-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.instagram.com/joao_andraade_" target="_blank"><img src="https://img.shields.io/badge/Instagram-Seguir-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=FF8A00&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=100&lines=Transformo+ideias+em+sistemas+r%C3%A1pidos+e+escal%C3%A1veis+%F0%9F%9A%80;Do+back-end+%E2%98%95+%C3%A0+%C3%BAltima+anima%C3%A7%C3%A3o+%F0%9F%8E%A8;%2B4+anos+construindo+software+que+faz+a+diferen%C3%A7a;Sempre+em+busca+do+pr%C3%B3ximo+desafio+%E2%9A%A1" />
+
+![Badge Disponível](https://img.shields.io/badge/STATUS-Dispon%C3%ADvel_para_oportunidades-39FF14?style=for-the-badge&labelColor=0D1117)
+![Visitantes](https://komarev.com/ghpvc/?username=joaoandradejava&style=for-the-badge&color=7C3AED&label=VISITAS+NO+PERFIL)
+
 </div>
 
-  ##
-  
- <div> 
-  <a href="https://www.instagram.com/joao_andraade_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:andradepinheironeto24@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/jo%C3%A3o-andrade-681166208/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-   
-   ![Snake animation](https://github.com/joaoandradejava/joaoandradejava/blob/output/github-contribution-grid-snake.svg)
+<br/>
+
+## 🧡 Sobre mim
+
+```ts
+const joao = {
+  nome: "João Andrade Pinheiro Neto",
+  cargo: "Desenvolvedor Fullstack",
+  localização: "Brasil 🇧🇷",
+  formação: "Análise e Desenvolvimento de Sistemas — AESO Barros Melo",
+  experiência: "+4 anos com Java & Spring Boot no back-end",
+  stackAtual: ["Angular", "React", "Next.js", "Vue.js"],
+  boasPráticas: ["Clean Code", "SOLID", "Code Review"],
+  missão: "Resolver problemas reais através de código bem feito",
+  buscando: "empresas inovadoras com cultura ágil 🚀"
+};
+```
+
+- 💼 Hoje atuo na **Pulsati**, prestando serviço pra **MV** no Prontuário Eletrônico do Paciente (PEP)
+- 🏥 +3 anos de casa na **MV**, evoluindo um sistema hospitalar crítico
+- 🤝 Participo ativamente de code-review e cultivo de boas práticas em equipe
+- 📚 Sempre estudando algo novo — hoje é isso, amanhã é outra coisa
+- ⚡ Veja meu caminho completo no [**meu portfólio**](https://portfolio-blush-beta-g74bfm2rz9.vercel.app/)
+
+<br/>
+
+## ⚡ Stack & Ferramentas
+
+<div align="center">
+
+**Back-end**
+
+<img src="https://skillicons.dev/icons?i=java,spring,cs,docker&theme=dark" />
+
+**Front-end**
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,react,nextjs,tailwind,vue&theme=dark" />
+
+**Mobile**
+
+<img src="https://skillicons.dev/icons?i=flutter,dart&theme=dark" />
+
+**Dados**
+
+<img src="https://skillicons.dev/icons?i=postgres,oracle,mysql&theme=dark" />
+
+**Ferramentas**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,figma&theme=dark" />
+
+</div>
+
+<br/>
+
+## 📊 Estatísticas
+
+<div align="center">
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=joaoandradejava&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF8A00&icon_color=7C3AED&text_color=c9d1d9"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoandradejava&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF8A00&text_color=c9d1d9"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=joaoandradejava&theme=radical&hide_border=true&background=0D1117&ring=FF8A00&fire=7C3AED&currStreakLabel=FF8A00"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=joaoandradejava&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1"/>
+
+</div>
+
+<br/>
+
+## 🐍 Contribuições da semana
+
+<div align="center">
+
+<img src="https://github.com/joaoandradejava/joaoandradejava/blob/output/github-contribution-grid-snake.svg" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 💬 "Transformo ideias em sistemas rápidos, escaláveis e com experiência de uso impecável."
+
+<a href="https://www.linkedin.com/in/jo%C3%A3o-andrade-681166208/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:andradepinheironeto24@gmail.com"><img src="https://img.shields.io/badge/-Gmail-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.instagram.com/joao_andraade_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://portfolio-blush-beta-g74bfm2rz9.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/-Portf%C3%B3lio-FF8A00?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:FF8A00&height=120&section=footer"/>
 
 </div>
