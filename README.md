@@ -9,7 +9,9 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=FF8A00&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Transformo+ideias+em+sistemas+r%C3%A1pidos+%F0%9F%9A%80;Do+back-end+%E2%98%95+%C3%A0+%C3%BAltima+anima%C3%A7%C3%A3o+%F0%9F%8E%A8;%2B4+anos+construindo+software+que+faz+a+diferen%C3%A7a;Sempre+em+busca+do+pr%C3%B3ximo+desafio+%E2%9A%A1" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=FF8A00&vCenter=true&multiline=false&repeat=true&width=600&height=50&lines=Transformo+ideias+em+sistemas+r%C3%A1pidos+%F0%9F%9A%80;Do+back-end+%E2%98%95+%C3%A0+%C3%BAltima+anima%C3%A7%C3%A3o+%F0%9F%8E%A8;%2B4+anos+construindo+software+que+faz+diferen%C3%A7a;Sempre+em+busca+do+pr%C3%B3ximo+desafio+%E2%9A%A1" />
+
+<br/>
 
 ![Badge Disponível](https://img.shields.io/badge/STATUS-Dispon%C3%ADvel_para_oportunidades-39FF14?style=for-the-badge&labelColor=0D1117)
 ![Visitantes](https://komarev.com/ghpvc/?username=joaoandradejava&style=for-the-badge&color=7C3AED&label=VISITAS+NO+PERFIL)
