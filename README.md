@@ -34,8 +34,8 @@ const joao = {
 };
 ```
 
-- 💼 Hoje atuo na **Pulsati**, prestando serviço pra **MV** no Prontuário Eletrônico do Paciente (PEP)
-- 🏥 +3 anos de casa na **MV**, evoluindo um sistema hospitalar crítico
+- 🟢 Atualmente em busca de novas oportunidades como Desenvolvedor Fullstack
+- 🏥 +3 anos construindo e evoluindo o Prontuário Eletrônico do Paciente (PEP) na **MV**
 - 🤝 Participo ativamente de code-review e cultivo de boas práticas em equipe
 - 📚 Sempre estudando algo novo — hoje é isso, amanhã é outra coisa
 - ⚡ Veja meu caminho completo no [**meu portfólio**](https://portfolio-blush-beta-g74bfm2rz9.vercel.app/)
