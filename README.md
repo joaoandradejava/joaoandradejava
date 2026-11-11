@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF8A00,100:7C3AED&height=220&section=header&text=Jo%C3%A3o%20Andrade&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%E2%80%A2%20Java%20%2B%20Spring%20%E2%80%A2%20React%20%2F%20Angular%20%2F%20Next.js&descAlignY=55&descSize=20"/>
+<img width="100%" src="https://raw.githubusercontent.com/joaoandradejava/joaoandradejava/main/assets/banner.svg"/>
 
 <a href="https://portfolio-blush-beta-g74bfm2rz9.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/🌐_PORTFÓLIO-Visitar-FF8A00?style=for-the-badge&labelColor=0D1117"/></a>
 <a href="https://www.linkedin.com/in/jo%C3%A3o-andrade-681166208/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
