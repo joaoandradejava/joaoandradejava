@@ -30,7 +30,10 @@ const joao = {
   formação: "Análise e Desenvolvimento de Sistemas — AESO Barros Melo",
   experiência: "+4 anos com Java & Spring Boot no back-end",
   stackAtual: ["Angular", "React", "Next.js", "Vue.js"],
-  boasPráticas: ["Clean Code", "SOLID", "Code Review"],
+  arquitetura: ["Microsserviços", "Micro-Frontend"],
+  cloudNative: ["AWS", "Kubernetes", "Kafka", "CI/CD"],
+  boasPráticas: ["Clean Code", "SOLID", "Code Review", "Testes Unitários"],
+  explorando: "IA Generativa (Spring AI, LangChain4j)",
   missão: "Resolver problemas reais através de código bem feito",
   buscando: "empresas inovadoras com cultura ágil 🚀"
 };
@@ -38,6 +41,9 @@ const joao = {
 
 - 🟢 Atualmente em busca de novas oportunidades como Desenvolvedor Fullstack
 - 🏥 +3 anos construindo e evoluindo o Prontuário Eletrônico do Paciente (PEP) na **MV**
+- ☁️ Experiência com Cloud (AWS), Kubernetes, mensageria com Kafka e esteiras de CI/CD
+- 🧪 Arquitetura de microsserviços, micro-frontends e testes unitários (JUnit/Mockito)
+- 🤖 Explorando IA Generativa aplicada ao desenvolvimento (Spring AI, LangChain4j)
 - 🤝 Participo ativamente de code-review e cultivo de boas práticas em equipe
 - 📚 Sempre estudando algo novo — hoje é isso, amanhã é outra coisa
 - ⚡ Veja meu caminho completo no [**meu portfólio**](https://portfolio-blush-beta-g74bfm2rz9.vercel.app/)
@@ -63,6 +69,17 @@ const joao = {
 **Dados**
 
 <img src="https://skillicons.dev/icons?i=postgres,oracle,mysql&theme=dark" />
+
+**Cloud & DevOps**
+
+<img src="https://skillicons.dev/icons?i=aws,kubernetes,githubactions,kafka&theme=dark" />
+
+**Arquitetura & Qualidade**
+
+![Microsserviços](https://img.shields.io/badge/-Microsserviços-FF8A00?style=for-the-badge&labelColor=0D1117)
+![Micro-Frontend](https://img.shields.io/badge/-Micro--Frontend-FF8A00?style=for-the-badge&labelColor=0D1117)
+![Testes Unitários](https://img.shields.io/badge/-Testes_Unitários-39FF14?style=for-the-badge&labelColor=0D1117)
+![IA Generativa](https://img.shields.io/badge/-IA_Generativa-7C3AED?style=for-the-badge&labelColor=0D1117)
 
 **Ferramentas**
 
