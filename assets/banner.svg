@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="100%" height="220">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#05020b"/>
+      <stop offset="45%" stop-color="#1a0a33"/>
+      <stop offset="75%" stop-color="#3a1261"/>
+      <stop offset="100%" stop-color="#7c3aed"/>
+    </linearGradient>
+    <radialGradient id="moonGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#ffd59e" stop-opacity="0.9"/>
+      <stop offset="35%" stop-color="#ff8a00" stop-opacity="0.45"/>
+      <stop offset="100%" stop-color="#ff8a00" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="mBack" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#4c1d95"/>
+      <stop offset="100%" stop-color="#2e1065"/>
+    </linearGradient>
+    <linearGradient id="mMid" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#2e1065"/>
+      <stop offset="100%" stop-color="#1a0a33"/>
+    </linearGradient>
+    <linearGradient id="mFront" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#140826"/>
+      <stop offset="100%" stop-color="#05020b"/>
+    </linearGradient>
+    <linearGradient id="nameGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#ff8a00"/>
+      <stop offset="100%" stop-color="#c084fc"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="300" fill="url(#sky)"/>
+
+  <g fill="#f5e9ff">
+    <circle cx="60" cy="40" r="1.4" opacity="0.8"/>
+    <circle cx="140" cy="70" r="1" opacity="0.6"/>
+    <circle cx="220" cy="35" r="1.6" opacity="0.9"/>
+    <circle cx="300" cy="90" r="1" opacity="0.5"/>
+    <circle cx="90" cy="110" r="1.2" opacity="0.7"/>
+    <circle cx="400" cy="50" r="1.3" opacity="0.7"/>
+    <circle cx="470" cy="100" r="1" opacity="0.5"/>
+    <circle cx="540" cy="30" r="1.5" opacity="0.8"/>
+    <circle cx="610" cy="75" r="1" opacity="0.6"/>
+    <circle cx="700" cy="45" r="1.3" opacity="0.7"/>
+    <circle cx="760" cy="95" r="1" opacity="0.5"/>
+    <circle cx="980" cy="55" r="1.4" opacity="0.7"/>
+    <circle cx="1040" cy="25" r="1.1" opacity="0.6"/>
+    <circle cx="1110" cy="80" r="1.3" opacity="0.7"/>
+    <circle cx="1150" cy="40" r="1" opacity="0.5"/>
+    <circle cx="1170" cy="110" r="1.2" opacity="0.6"/>
+  </g>
+
+  <circle cx="860" cy="90" r="95" fill="url(#moonGlow)"/>
+  <circle cx="860" cy="90" r="34" fill="#fff3e0"/>
+  <circle cx="872" cy="80" r="34" fill="url(#sky)" opacity="0.55"/>
+
+  <path d="M0,230 L90,150 L170,205 L250,120 L330,190 L420,110 L520,200 L600,140 L700,210 L800,130 L900,195 L1000,150 L1080,215 L1160,160 L1200,200 L1200,300 L0,300 Z" fill="url(#mBack)" opacity="0.75"/>
+
+  <path d="M0,260 L110,190 L210,245 L300,170 L400,235 L500,180 L610,250 L720,185 L830,240 L930,170 L1040,235 L1130,195 L1200,230 L1200,300 L0,300 Z" fill="url(#mMid)" opacity="0.9"/>
+
+  <path d="M0,300 L0,280 L120,215 L230,265 L340,205 L460,270 L580,220 L690,275 L800,210 L910,268 L1030,215 L1140,270 L1200,250 L1200,300 Z" fill="url(#mFront)"/>
+
+  <text x="60" y="186" font-family="Helvetica, Arial, sans-serif" font-size="46" font-weight="700" fill="url(#nameGrad)">João Andrade</text>
+  <text x="60" y="218" font-family="Fira Code, Helvetica, Arial, sans-serif" font-size="18" fill="#e9d8ff" opacity="0.9">Full Stack Developer • Java + Spring • React / Angular / Next.js</text>
+</svg>
